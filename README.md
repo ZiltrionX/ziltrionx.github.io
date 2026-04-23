@@ -1,5 +1,5 @@
 ## 📥 letöltés/download
-[![Download](https://img.shields.io/badge/Download-ZiltrionX-blue?style=for-the-badge)]()
+[![Download](https://img.shields.io/badge/Download-ZiltrionX-blue?style=for-the-badge)](https://github.com/ZiltrionX/ziltrionx.github.io/releases/download/v1.0.0/ZiltrionX.exe)
 
 ## 🇭🇺 Magyarul
 
