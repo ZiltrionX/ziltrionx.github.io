@@ -2,6 +2,10 @@
 
 ---
 
+![ZiltrionX Screenshot](https://raw.githubusercontent.com/ZiltrionX/ZiltrionX/main/screenshot1.png)
+
+---
+
 ## 📥 **Letöltés / Download**
 [![Download](https://img.shields.io/badge/⬇️_Download-ZiltrionX-1f6feb?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/ZiltrionX/ziltrionx.github.io/releases/download/v1.0.0/ZiltrionX.exe)
 
