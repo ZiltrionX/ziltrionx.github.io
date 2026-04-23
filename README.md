@@ -2,7 +2,7 @@
 
 ---
 
-![ZiltrionX Screenshot](https://raw.githubusercontent.com/ZiltrionX/ZiltrionX/main/screenshot1.png)
+![ZiltrionX Screenshot](https://github.com/ZiltrionX/ziltrionx.github.io/blob/main/ZiltrionX.png)
 
 ---
 
