@@ -1,5 +1,4 @@
 ## 📥 Letöltés
-
 [![Download](https://img.shields.io/badge/Download-ZiltrionX-blue?style=for-the-badge)](https://github.com/ZiltrionX/ZiltrionX/releases/latest)
 
 🇭🇺 Magyarul
@@ -8,6 +7,13 @@ A ZiltrionX egy egyszerűen kezelhető, modern Windows‑eszköz, amellyel könn
 > **Forráskód elérhetősége**  
 > A ZiltrionX jelenleg zárt forráskódú projekt. A PowerShell alapú forrásfájlokat nem áll módomban közzétenni, ezért a felhasználók kizárólag a kiadott futtatható (EXE) verziót tölthetik le.  
 > A döntés oka: stabilitás, biztonság és a projekt további fejlesztésének védelme.
+
+## ⚙️ Fő funkciók
+- Windows testreszabása (UI, animációk, vizuális elemek)
+- Rendszeroptimalizálás
+- Automatikus telepítőpanel (Chocolatey integráció)
+- Modern, letisztult GUI
+- Dark mode támogatás
 
 🇬🇧 English
 ZiltrionX is an easy‑to‑use, modern Windows tool that lets you effortlessly customize system settings and the appearance of Windows.
