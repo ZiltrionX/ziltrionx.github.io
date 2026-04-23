@@ -21,7 +21,7 @@ A ZiltrionX egy egyszerűen kezelhető, modern Windows‑eszköz, amellyel könn
 - Modern, letisztult GUI
 - Dark mode támogatás
 
-- ## 📬 Kapcsolat
+## 📬 Kapcsolat
 Ha kérdésed vagy észrevételed van a projekttel kapcsolatban, ezen az e‑mail címen tudsz elérni:
 **ziltrionx.dev@gmail.com**
 
