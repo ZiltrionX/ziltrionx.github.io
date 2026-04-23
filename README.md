@@ -35,16 +35,16 @@ ZiltrionX is an easy‑to‑use, modern Windows tool that lets you effortlessly 
 > Reason for this decision: stability, security, and protecting the ongoing development of the project.
 
 🧩 System Requirements
-Windows 11
-PowerShell 5.1 or newer
-Internet connection (optional, required only for the installer panel)
+- Windows 11
+- PowerShell 5.1 or newer
+- Internet connection (optional, required only for the installer panel)
 
 ⚙️ Main Features
-Windows customization (UI, animations, visual elements)
-System optimization
-Automatic installer panel (Chocolatey integration)
-Modern, clean GUI
-Dark mode support
+- Windows customization (UI, animations, visual elements)
+- System optimization
+- Automatic installer panel (Chocolatey integration)
+- Modern, clean GUI
+- Dark mode support
 
 ## 📬 Contact
 If you have any questions or feedback regarding the project, you can reach me at:
