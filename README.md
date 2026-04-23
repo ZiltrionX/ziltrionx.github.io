@@ -34,12 +34,12 @@ ZiltrionX is an easy‑to‑use, modern Windows tool that lets you effortlessly 
 > ZiltrionX is currently a closed‑source project. The PowerShell-based source files are not available for public release, therefore users can only download the compiled executable (EXE) version.  
 > Reason for this decision: stability, security, and protecting the ongoing development of the project.
 
-🧩 System Requirements
+## 🧩 System Requirements
 - Windows 11
 - PowerShell 5.1 or newer
 - Internet connection (optional, required only for the installer panel)
 
-⚙️ Main Features
+## ⚙️ Main Features
 - Windows customization (UI, animations, visual elements)
 - System optimization
 - Automatic installer panel (Chocolatey integration)
