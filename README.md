@@ -1,4 +1,4 @@
-[![Download](https://img.shields.io/badge/Download-ZiltrionX-blue?style=for-the-badge)](https://github.com/ZiltrionX_dev/ZiltrionX/releases/latest)
+[![Download](https://img.shields.io/badge/Download-ZiltrionX-blue?style=for-the-badge)](https://github.com/ZiltrionX/ZiltrionX/releases/latest)
 
 🇭🇺 Magyarul
 A ZiltrionX egy egyszerűen kezelhető, modern Windows‑eszköz, amellyel könnyedén módosíthatod a rendszer egyes beállításait és a Windows megjelenését.
