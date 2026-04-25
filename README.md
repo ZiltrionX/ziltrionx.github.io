@@ -101,7 +101,7 @@ Ha kérdésed vagy észrevételed van, írj bátran:
 > does not modify system files beyond the selected tweaks,
 > and does not collect or send any data.
 
-##**To run it safely, choose:**
+## **To run it safely, choose:**
 - More info → Run anyway
 
 ---
