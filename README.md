@@ -33,21 +33,21 @@ A **ZiltrionX** egy modern, könnyen kezelhető Windows‑eszköz, amellyel egys
 ---
 
 ##⚠️ **Miért érzékeli a Windows vírusnak az első futtatásnál?**
--Amikor a ZiltrionX először kerül futtatásra, a Windows SmartScreen figyelmeztetést jeleníthet meg, vagy ideiglenesen gyanúsnak jelölheti a fájlt.
+- Amikor a ZiltrionX először kerül futtatásra, a Windows SmartScreen figyelmeztetést jeleníthet meg, vagy ideiglenesen gyanúsnak jelölheti a fájlt.
 Ez nem azért történik, mert a program káros lenne, hanem azért, mert:
 
--az alkalmazás újonnan készült,
--nincs digitálisan aláírva,
--és még nincs felhasználói reputációja a Microsoft biztonsági adatbázisában.
+- az alkalmazás újonnan készült,
+- nincs digitálisan aláírva,
+- és még nincs felhasználói reputációja a Microsoft biztonsági adatbázisában.
 
--Minden új, saját készítésű, aláíratlan program ugyanezt a figyelmeztetést kapja, amíg elegendő felhasználó nem futtatja, vagy amíg a fejlesztő nem látja el hitelesített tanúsítvánnyal.
+- Minden új, saját készítésű, aláíratlan program ugyanezt a figyelmeztetést kapja, amíg elegendő felhasználó nem futtatja, vagy amíg a fejlesztő nem látja el hitelesített tanúsítvánnyal.
 
--A ZiltrionX nem tartalmaz kártékony kódot,
+- A ZiltrionX nem tartalmaz kártékony kódot,
 nem módosít rendszerfájlokat a kiválasztott beállításokon kívül,
 és nem gyűjt vagy küld adatot.
 
 ## **A futtatáshoz válaszd:**
--További információk → Futtatás mindenképp
+- További információk → Futtatás mindenképp
 
 ---
 
@@ -88,21 +88,21 @@ Ha kérdésed vagy észrevételed van, írj bátran:
 ---
 
 ## ⚠️ **Why does Windows detect it as a virus on first launch?**
--When ZiltrionX is run for the first time, Windows SmartScreen may display a warning or temporarily flag the file as suspicious.
+- When ZiltrionX is run for the first time, Windows SmartScreen may display a warning or temporarily flag the file as suspicious.
 This does not mean the program is harmful. It happens because:
 
--the application is newly created,
--it is not digitally signed,
--and it has no reputation yet in Microsoft’s security database.
+- the application is newly created,
+- it is not digitally signed,
+- and it has no reputation yet in Microsoft’s security database.
 
--All new, unsigned applications trigger this behavior until enough users run them or the developer signs the executable with a trusted certificate.
+- All new, unsigned applications trigger this behavior until enough users run them or the developer signs the executable with a trusted certificate.
 
--ZiltrionX does not contain malware,
+- ZiltrionX does not contain malware,
 does not modify system files beyond the selected tweaks,
 and does not collect or send any data.
 
 ##**To run it safely, choose:**
--More info → Run anyway
+- More info → Run anyway
 
 ---
 
