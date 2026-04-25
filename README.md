@@ -32,7 +32,7 @@ A **ZiltrionX** egy modern, könnyen kezelhető Windows‑eszköz, amellyel egys
 
 ---
 
-##⚠️ **Miért érzékeli a Windows vírusnak az első futtatásnál?**
+## ⚠️ **Miért érzékeli a Windows vírusnak az első futtatásnál?**
 - Amikor a ZiltrionX először kerül futtatásra, a Windows SmartScreen figyelmeztetést jeleníthet meg, vagy ideiglenesen gyanúsnak jelölheti a fájlt.
 Ez nem azért történik, mert a program káros lenne, hanem azért, mert:
 
