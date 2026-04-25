@@ -33,8 +33,8 @@ A **ZiltrionX** egy modern, könnyen kezelhető Windows‑eszköz, amellyel egys
 ---
 
 ## ⚠️ **Miért érzékeli a Windows vírusnak az első futtatásnál?**
-- Amikor a ZiltrionX először kerül futtatásra, a Windows SmartScreen figyelmeztetést jeleníthet meg, vagy ideiglenesen gyanúsnak jelölheti a fájlt.
-Ez nem azért történik, mert a program káros lenne, hanem azért, mert:
+> Amikor a ZiltrionX először kerül futtatásra, a Windows SmartScreen figyelmeztetést jeleníthet meg, vagy ideiglenesen gyanúsnak jelölheti a fájlt.
+> Ez nem azért történik, mert a program káros lenne, hanem azért, mert:
 
 - az alkalmazás újonnan készült,
 - nincs digitálisan aláírva,
@@ -42,9 +42,9 @@ Ez nem azért történik, mert a program káros lenne, hanem azért, mert:
 
 - Minden új, saját készítésű, aláíratlan program ugyanezt a figyelmeztetést kapja, amíg elegendő felhasználó nem futtatja, vagy amíg a fejlesztő nem látja el hitelesített tanúsítvánnyal.
 
-- A ZiltrionX nem tartalmaz kártékony kódot,
-nem módosít rendszerfájlokat a kiválasztott beállításokon kívül,
-és nem gyűjt vagy küld adatot.
+> A ZiltrionX nem tartalmaz kártékony kódot,
+> nem módosít rendszerfájlokat a kiválasztott beállításokon kívül,
+> és nem gyűjt vagy küld adatot.
 
 ## **A futtatáshoz válaszd:**
 - További információk → Futtatás mindenképp
@@ -88,8 +88,8 @@ Ha kérdésed vagy észrevételed van, írj bátran:
 ---
 
 ## ⚠️ **Why does Windows detect it as a virus on first launch?**
-- When ZiltrionX is run for the first time, Windows SmartScreen may display a warning or temporarily flag the file as suspicious.
-This does not mean the program is harmful. It happens because:
+> When ZiltrionX is run for the first time, Windows SmartScreen may display a warning or temporarily flag the file as suspicious.
+> This does not mean the program is harmful. It happens because:
 
 - the application is newly created,
 - it is not digitally signed,
@@ -97,9 +97,9 @@ This does not mean the program is harmful. It happens because:
 
 - All new, unsigned applications trigger this behavior until enough users run them or the developer signs the executable with a trusted certificate.
 
-- ZiltrionX does not contain malware,
-does not modify system files beyond the selected tweaks,
-and does not collect or send any data.
+> ZiltrionX does not contain malware,
+> does not modify system files beyond the selected tweaks,
+> and does not collect or send any data.
 
 ##**To run it safely, choose:**
 - More info → Run anyway
